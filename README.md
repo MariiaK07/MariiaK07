@@ -2,7 +2,7 @@
 - 👀 I’m interested in WEB Development
 - 🌱 I’m currently learning FRONTEND
 - 💞️ I’m looking to collaborate on any project its stack is:
-      HTML, CSS, JS, TypeScript, React.js, Redux, Node.js, SQL
+      HTML, CSS, JavaScript, TypeScript, React.js, Redux, Node.js, SQL
 - 📫 Feel free to contact me: mariiakovach123@gmail.com
 
 <!---
